@@ -13,6 +13,7 @@
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "apexcharts": "3.6.7",
+    "axios": "^0.21.1",
     "boostrap": "^2.0.0",
     "bootstrap": "^4.6.0",
     "jquery": "1.9.1",
