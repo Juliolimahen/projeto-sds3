@@ -6,8 +6,8 @@ const Home = () => {
     return (
         <>
             <NavBar />
-            <div className="container">
-                <div className="jumbotron">
+            <div className="container" >
+                <div className="jumbotron" style={{ backgroundColor: "white" }} >
                     <h1 className="display-4">DSVendas</h1>
                     <p className="lead">Analise o desempenho das suas vendas por diferentes perspectivas</p>
                     <hr />
