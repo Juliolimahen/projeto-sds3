@@ -40,7 +40,5 @@ public class SellerDTO  implements Serializable{
 
 	public void setName(String name) {
 		this.name = name;
-	}
-	
-	
+	}	
 }

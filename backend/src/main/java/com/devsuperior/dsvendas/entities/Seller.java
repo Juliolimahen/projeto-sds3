@@ -44,6 +44,5 @@ public class Seller {
 	}
 	public List<Sale> getSales() {
 		return sales;
-	}
-	
+	}	
 }

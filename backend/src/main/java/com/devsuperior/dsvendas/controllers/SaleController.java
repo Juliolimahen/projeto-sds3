@@ -38,7 +38,5 @@ public class SaleController {
 	public ResponseEntity<List<SaleSuccessDTO>> successGroupedBySeller(){
 		List<SaleSuccessDTO> list= service.successGroupedBySeller();
 		return ResponseEntity.ok(list);
-	}
-	
-	
+	}	
 }
